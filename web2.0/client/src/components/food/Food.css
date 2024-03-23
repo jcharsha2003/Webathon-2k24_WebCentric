@@ -1,0 +1,33 @@
+
+.food-card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Center the card vertically */
+    width: fit-content; /* Adjust width as needed */
+    margin: 100px auto 0; /* Center horizontally, add top margin */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff; /* Light background */
+  }
+  
+
+.food-card-image {
+  width: 400px; /* Adjust image width as needed */
+  border-radius: 5px;
+}
+
+.food-card-content {
+  text-align: center;
+  padding: 10px;
+}
+
+.food-card-button {
+  background-color: #333; /* Adjust button color */
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

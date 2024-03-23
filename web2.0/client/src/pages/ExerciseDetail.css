@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .exercised{
+
+        background-image: url(.././assets/images/img5.jpg);
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        height: 100%;
+        
+      }
